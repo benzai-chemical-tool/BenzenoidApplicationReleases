@@ -1,0 +1,14 @@
+{
+        "id": -1,
+        "name": "none",
+        "nbHexagons": 4,
+        "nbCarbons": 0,
+        "nbHydrogens": 0,
+        "irregularity": 0.5,
+        "operatorId": "opeid", 
+        "operatorName": "opename",
+        "operatorHexagons": "=",
+        "operatorCarbons": "=",
+        "operatorHydrogens": "opehydrogens",
+        "operatorIrregularity": ">"
+}
